@@ -1,1 +1,1 @@
-# bare-bones-node-app
+# simple-node-app
